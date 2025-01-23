@@ -1,0 +1,18 @@
+PARTKEY|NAME|MFGR|BRAND|TYPE|SIZE|CONTAINER|RETAILPRICE|COMMENT
+1|goldenrod lavender spring chocolate lace|Manufacturer#1           |Brand#13  |PROMO BURNISHED COPPER|7|JUMBO PKG |0.00|wake|
+2|blush thistle blue yellow saddle|Manufacturer#1           |Brand#13  |LARGE BRUSHED BRASS|1|LG CASE   |0.00|no|
+3|spring green yellow purple cornsilk|Manufacturer#4           |Brand#42  |STANDARD POLISHED BRASS|21|WRAP CASE |0.00|no|
+4|cornflower chocolate smoke green pink|Manufacturer#3           |Brand#34  |SMALL PLATED BRASS|14|MED DRUM  |0.00|no|
+5|forest brown coral puff cream|Manufacturer#3           |Brand#32  |STANDARD POLISHED TIN|15|SM PKG    |0.00|no|
+6|bisque cornflower lawn forest magenta|Manufacturer#2           |Brand#24  |PROMO PLATED STEEL|4|MED BAG   |1.00|no|
+7|moccasin green thistle khaki floral|Manufacturer#1           |Brand#11  |SMALL PLATED COPPER|45|SM BAG    |1.00|no|
+8|misty lace thistle snow royal|Manufacturer#4           |Brand#44  |PROMO BURNISHED TIN|41|LG DRUM   |1.00|no|
+9|thistle dim navajo dark gainsboro|Manufacturer#4           |Brand#43  |SMALL BURNISHED STEEL|12|WRAP CASE |1.00|no|
+10|linen pink saddle puff powder|Manufacturer#5           |Brand#54  |LARGE BURNISHED STEEL|44|LG CAN    |1.00|no|
+11|spring maroon seashell almond orchid|Manufacturer#2           |Brand#25  |STANDARD BURNISHED NICKEL|43|WRAP BOX  |1.00|no|
+12|cornflower wheat orange maroon ghost|Manufacturer#3           |Brand#33  |MEDIUM ANODIZED STEEL|25|JUMBO CASE|1.00|no|
+13|ghost olive orange rosy thistle|Manufacturer#5           |Brand#55  |MEDIUM BURNISHED NICKEL|1|JUMBO PACK|1.00|no|
+14|khaki seashell rose cornsilk navajo|Manufacturer#1           |Brand#13  |SMALL POLISHED STEEL|28|JUMBO BOX |1.00|no|
+15|blanched honeydew sky turquoise medium|Manufacturer#1           |Brand#15  |LARGE ANODIZED BRASS|2|SM CASE   |2.00|no|
+
+

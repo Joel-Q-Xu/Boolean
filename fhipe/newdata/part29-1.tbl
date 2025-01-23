@@ -1,0 +1,143 @@
+PARTKEY|NAME|MFGR|BRAND|TYPE|SIZE|CONTAINER|RETAILPRICE|COMMENT
+1|goldenrod lavender spring chocolate lace|Manufacturer#1           |Brand#13  |PROMO BURNISHED COPPER|7|JUMBO PKG |0.00|wake|
+2|blush thistle blue yellow saddle|Manufacturer#1           |Brand#13  |LARGE BRUSHED BRASS|1|LG CASE   |0.00|no|
+3|spring green yellow purple cornsilk|Manufacturer#4           |Brand#42  |STANDARD POLISHED BRASS|21|WRAP CASE |0.00|no|
+4|cornflower chocolate smoke green pink|Manufacturer#3           |Brand#34  |SMALL PLATED BRASS|14|MED DRUM  |0.00|no|
+5|forest brown coral puff cream|Manufacturer#3           |Brand#32  |STANDARD POLISHED TIN|15|SM PKG    |0.00|no|
+6|bisque cornflower lawn forest magenta|Manufacturer#2           |Brand#24  |PROMO PLATED STEEL|4|MED BAG   |1.00|no|
+7|moccasin green thistle khaki floral|Manufacturer#1           |Brand#11  |SMALL PLATED COPPER|45|SM BAG    |1.00|no|
+8|misty lace thistle snow royal|Manufacturer#4           |Brand#44  |PROMO BURNISHED TIN|41|LG DRUM   |1.00|no|
+9|thistle dim navajo dark gainsboro|Manufacturer#4           |Brand#43  |SMALL BURNISHED STEEL|12|WRAP CASE |1.00|no|
+10|linen pink saddle puff powder|Manufacturer#5           |Brand#54  |LARGE BURNISHED STEEL|44|LG CAN    |1.00|no|
+11|spring maroon seashell almond orchid|Manufacturer#2           |Brand#25  |STANDARD BURNISHED NICKEL|43|WRAP BOX  |1.00|no|
+12|cornflower wheat orange maroon ghost|Manufacturer#3           |Brand#33  |MEDIUM ANODIZED STEEL|25|JUMBO CASE|1.00|no|
+13|ghost olive orange rosy thistle|Manufacturer#5           |Brand#55  |MEDIUM BURNISHED NICKEL|1|JUMBO PACK|1.00|no|
+14|khaki seashell rose cornsilk navajo|Manufacturer#1           |Brand#13  |SMALL POLISHED STEEL|28|JUMBO BOX |1.00|no|
+15|blanched honeydew sky turquoise medium|Manufacturer#1           |Brand#15  |LARGE ANODIZED BRASS|45|LG CASE   |2.00|no|
+16|deep sky turquoise drab peach|Manufacturer#3           |Brand#32  |PROMO PLATED TIN|2|MED PACK  |2.00|no|
+17|indian navy coral pink deep|Manufacturer#4           |Brand#43  |ECONOMY BRUSHED STEEL|16|LG BOX    |2.00|no|
+18|turquoise indian lemon lavender misty|Manufacturer#1           |Brand#11  |SMALL BURNISHED STEEL|42|JUMBO PACK|2.00|no|
+19|chocolate navy tan deep brown|Manufacturer#2           |Brand#23  |SMALL ANODIZED NICKEL|33|WRAP BOX  |2.00|no|
+20|ivory navy honeydew sandy midnight|Manufacturer#1           |Brand#12  |LARGE POLISHED NICKEL|48|MED BAG   |2.00|no|
+21|lemon floral azure frosted lime|Manufacturer#3           |Brand#33  |SMALL BURNISHED TIN|31|MED BAG   |2.00|no|
+22|medium forest blue ghost black|Manufacturer#4           |Brand#43  |PROMO POLISHED BRASS|19|LG DRUM   |2.00|no|
+23|coral lavender seashell rosy burlywood|Manufacturer#3           |Brand#35  |MEDIUM BURNISHED TIN|42|JUMBO JAR |2.00|no|
+24|seashell coral metallic midnight floral|Manufacturer#5           |Brand#52  |MEDIUM PLATED STEEL|20|MED CASE  |3.00|no|
+25|aquamarine steel firebrick light turquoise|Manufacturer#5           |Brand#55  |STANDARD BRUSHED COPPER|3|JUMBO BAG |3.00|no|
+26|beige frosted moccasin chocolate snow|Manufacturer#3           |Brand#32  |SMALL BRUSHED STEEL|32|SM CASE   |3.00|no|
+27|saddle puff beige linen yellow|Manufacturer#1           |Brand#14  |LARGE ANODIZED TIN|20|MED PKG   |3.00|no|
+28|navajo yellow drab white misty|Manufacturer#4           |Brand#44  |SMALL PLATED COPPER|19|JUMBO PKG |3.00|no|
+29|lemon sky grey salmon orchid|Manufacturer#3           |Brand#33  |PROMO PLATED COPPER|7|LG DRUM   |3.00|no|
+30|cream misty steel spring medium|Manufacturer#4           |Brand#42  |PROMO ANODIZED TIN|17|LG BOX    |3.00|no|
+31|slate seashell steel medium moccasin|Manufacturer#5           |Brand#53  |STANDARD BRUSHED TIN|10|LG BAG    |3.00|no|
+32|sandy wheat coral spring burnished|Manufacturer#4           |Brand#42  |ECONOMY PLATED BRASS|31|LG CASE   |3.00|no|
+33|spring bisque salmon slate pink|Manufacturer#2           |Brand#22  |ECONOMY PLATED NICKEL|16|LG PKG    |4.00|no|
+34|khaki steel rose ghost salmon|Manufacturer#1           |Brand#13  |LARGE BRUSHED STEEL|8|JUMBO BOX |4.00|no|
+35|green blush tomato burlywood seashell|Manufacturer#4           |Brand#43  |MEDIUM ANODIZED BRASS|14|JUMBO PACK|4.00|no|
+36|chiffon tan forest moccasin dark|Manufacturer#2           |Brand#25  |SMALL BURNISHED COPPER|3|JUMBO CAN |4.00|no|
+37|royal coral orange burnished navajo|Manufacturer#4           |Brand#45  |LARGE POLISHED TIN|48|JUMBO BOX |4.00|no|
+38|seashell papaya white mint brown|Manufacturer#4           |Brand#43  |ECONOMY ANODIZED BRASS|11|SM JAR    |4.00|no|
+39|rose medium floral salmon powder|Manufacturer#5           |Brand#53  |SMALL POLISHED TIN|43|JUMBO JAR |4.00|no|
+40|lemon midnight metallic sienna steel|Manufacturer#2           |Brand#25  |ECONOMY BURNISHED COPPER|27|SM CASE   |4.00|no|
+41|burlywood goldenrod pink peru sienna|Manufacturer#2           |Brand#23  |ECONOMY ANODIZED TIN|7|WRAP JAR  |4.00|no|
+42|midnight turquoise lawn beige thistle|Manufacturer#5           |Brand#52  |MEDIUM BURNISHED TIN|45|LG BOX    |4.00|no|
+43|medium lace midnight royal chartreuse|Manufacturer#4           |Brand#44  |PROMO POLISHED STEEL|5|WRAP CASE |5.00|no|
+44|saddle cream wheat lemon burnished|Manufacturer#4           |Brand#45  |MEDIUM PLATED TIN|48|SM PACK   |5.00|no|
+45|lawn peru ghost khaki maroon|Manufacturer#4           |Brand#43  |SMALL BRUSHED NICKEL|9|WRAP BAG  |5.00|no|
+46|honeydew turquoise aquamarine spring tan|Manufacturer#1           |Brand#11  |STANDARD POLISHED TIN|45|WRAP CASE |5.00|no|
+47|honeydew red azure magenta brown|Manufacturer#4           |Brand#45  |LARGE BURNISHED BRASS|14|JUMBO PACK|5.00|no|
+48|slate thistle cornsilk pale forest|Manufacturer#5           |Brand#53  |STANDARD BRUSHED STEEL|27|JUMBO CASE|5.00|no|
+49|light firebrick cyan puff blue|Manufacturer#2           |Brand#24  |SMALL BURNISHED TIN|31|MED DRUM  |5.00|no|
+50|linen blanched tomato slate medium|Manufacturer#3           |Brand#33  |LARGE ANODIZED TIN|25|WRAP PKG  |5.00|no|
+51|lime frosted indian dodger linen|Manufacturer#4           |Brand#45  |ECONOMY BURNISHED NICKEL|34|JUMBO PACK|5.00|no|
+52|lemon midnight lace sky deep|Manufacturer#3           |Brand#35  |STANDARD BURNISHED TIN|25|WRAP CASE |6.00|no|
+53|bisque rose cornsilk seashell purple|Manufacturer#2           |Brand#23  |ECONOMY BURNISHED NICKEL|32|MED BAG   |6.00|no|
+54|blanched mint yellow papaya cyan|Manufacturer#2           |Brand#21  |LARGE BURNISHED COPPER|19|WRAP CASE |6.00|no|
+55|sky cream deep tomato rosy|Manufacturer#2           |Brand#23  |ECONOMY BRUSHED COPPER|9|MED BAG   |6.00|no|
+56|antique beige brown deep dodger|Manufacturer#1           |Brand#12  |MEDIUM PLATED STEEL|20|WRAP DRUM |6.00|no|
+57|purple blue light sienna deep|Manufacturer#3           |Brand#32  |MEDIUM BURNISHED BRASS|49|MED PKG   |6.00|no|
+58|linen hot cornsilk drab bisque|Manufacturer#5           |Brand#53  |STANDARD POLISHED TIN|44|LG PACK   |6.00|no|
+59|misty brown medium mint salmon|Manufacturer#5           |Brand#53  |MEDIUM POLISHED TIN|2|LG BAG    |6.00|no|
+60|snow spring sandy olive tomato|Manufacturer#1           |Brand#11  |LARGE POLISHED COPPER|27|JUMBO CASE|6.00|no|
+61|light tan linen tomato peach|Manufacturer#5           |Brand#54  |SMALL BURNISHED NICKEL|18|WRAP DRUM |7.00|no|
+62|tan cornsilk spring grey chocolate|Manufacturer#3           |Brand#35  |STANDARD BRUSHED BRASS|39|JUMBO BOX |7.00|no|
+63|burnished puff coral light papaya|Manufacturer#3           |Brand#32  |STANDARD BURNISHED NICKEL|10|JUMBO CAN |7.00|no|
+64|aquamarine coral lemon ivory gainsboro|Manufacturer#2           |Brand#21  |MEDIUM ANODIZED BRASS|1|JUMBO CAN |7.00|no|
+65|slate drab medium puff gainsboro|Manufacturer#5           |Brand#53  |MEDIUM BRUSHED COPPER|3|MED CAN   |7.00|no|
+66|cornflower pale almond lemon linen|Manufacturer#3           |Brand#35  |PROMO ANODIZED NICKEL|46|SM CASE   |7.00|no|
+67|slate salmon rose spring seashell|Manufacturer#2           |Brand#21  |SMALL BRUSHED TIN|31|WRAP DRUM |7.00|no|
+68|bisque ivory mint purple almond|Manufacturer#1           |Brand#11  |PROMO ANODIZED STEEL|10|WRAP BOX  |7.00|no|
+69|lace burnished rosy antique metallic|Manufacturer#5           |Brand#52  |MEDIUM POLISHED BRASS|2|SM BOX    |7.00|no|
+70|violet seashell firebrick dark navajo|Manufacturer#1           |Brand#11  |STANDARD BRUSHED STEEL|42|LG PACK   |8.00|no|
+71|violet firebrick cream peru white|Manufacturer#3           |Brand#33  |STANDARD PLATED BRASS|26|WRAP DRUM |8.00|no|
+72|hot spring yellow azure dodger|Manufacturer#2           |Brand#23  |STANDARD ANODIZED TIN|25|JUMBO PACK|8.00|no|
+73|cream moccasin royal dim chiffon|Manufacturer#2           |Brand#21  |SMALL BRUSHED COPPER|35|WRAP DRUM |8.00|no|
+74|frosted grey aquamarine thistle papaya|Manufacturer#5           |Brand#55  |ECONOMY ANODIZED BRASS|25|JUMBO CASE|8.00|no|
+75|aquamarine maroon wheat salmon metallic|Manufacturer#3           |Brand#35  |SMALL BURNISHED NICKEL|39|SM JAR    |8.00|no|
+76|rosy light lime puff sandy|Manufacturer#3           |Brand#34  |MEDIUM BRUSHED COPPER|9|SM PKG    |8.00|no|
+77|mint bisque chiffon snow firebrick|Manufacturer#5           |Brand#52  |STANDARD BRUSHED COPPER|13|MED PKG   |8.00|no|
+78|blush forest slate seashell puff|Manufacturer#1           |Brand#14  |ECONOMY POLISHED STEEL|24|LG JAR    |8.00|no|
+79|gainsboro pink grey tan almond|Manufacturer#4           |Brand#45  |PROMO ANODIZED BRASS|22|JUMBO BAG |9.00|no|
+80|tomato chartreuse coral turquoise linen|Manufacturer#4           |Brand#44  |PROMO PLATED BRASS|28|MED CAN   |9.00|no|
+81|misty sandy cornsilk dodger blush|Manufacturer#5           |Brand#53  |ECONOMY BRUSHED TIN|21|MED BAG   |9.00|no|
+82|khaki tomato purple almond tan|Manufacturer#1           |Brand#15  |ECONOMY POLISHED TIN|12|WRAP BOX  |9.00|no|
+83|blush green dim lawn peru|Manufacturer#1           |Brand#12  |PROMO BURNISHED NICKEL|47|SM CAN    |9.00|no|
+84|salmon floral cream rose dark|Manufacturer#4           |Brand#45  |SMALL ANODIZED NICKEL|26|JUMBO PACK|9.00|no|
+85|dim deep aquamarine smoke pale|Manufacturer#5           |Brand#55  |PROMO ANODIZED NICKEL|16|LG BAG    |9.00|no|
+86|green blanched firebrick dim cream|Manufacturer#4           |Brand#44  |STANDARD PLATED TIN|37|LG CASE   |9.00|no|
+87|purple lace seashell antique orange|Manufacturer#4           |Brand#41  |LARGE PLATED STEEL|41|WRAP PACK |9.00|no|
+88|lime orange bisque chartreuse lemon|Manufacturer#4           |Brand#44  |PROMO PLATED COPPER|16|SM CASE   |10.00|no|
+89|ghost lace lemon sienna saddle|Manufacturer#5           |Brand#53  |STANDARD BURNISHED STEEL|7|MED JAR   |10.00|no|
+90|hot rosy violet plum pale|Manufacturer#5           |Brand#51  |ECONOMY POLISHED STEEL|49|JUMBO CAN |10.00|no|
+91|misty bisque lavender spring turquoise|Manufacturer#2           |Brand#21  |STANDARD BRUSHED TIN|32|JUMBO PKG |10.00|no|
+92|blush magenta ghost tomato rose|Manufacturer#2           |Brand#22  |STANDARD ANODIZED TIN|35|JUMBO PKG |10.00|no|
+93|pale yellow cornsilk dodger moccasin|Manufacturer#2           |Brand#24  |LARGE ANODIZED TIN|2|WRAP DRUM |10.00|no|
+94|blanched pink frosted mint snow|Manufacturer#3           |Brand#35  |STANDARD POLISHED BRASS|32|SM BOX    |10.00|no|
+95|dodger beige wheat orchid navy|Manufacturer#3           |Brand#33  |LARGE BRUSHED TIN|36|WRAP DRUM |10.00|no|
+96|chocolate light firebrick rose indian|Manufacturer#5           |Brand#53  |STANDARD BRUSHED STEEL|32|SM CASE   |10.00|no|
+97|coral dodger beige black chartreuse|Manufacturer#3           |Brand#33  |MEDIUM POLISHED BRASS|49|WRAP CAN  |11.00|no|
+98|frosted peru chiffon yellow aquamarine|Manufacturer#5           |Brand#54  |STANDARD ANODIZED BRASS|22|MED JAR   |11.00|no|
+99|mint grey purple sienna metallic|Manufacturer#2           |Brand#21  |SMALL BURNISHED STEEL|11|JUMBO PKG |11.00|no|
+100|cyan orchid indian cornflower saddle|Manufacturer#3           |Brand#33  |ECONOMY ANODIZED TIN|4|LG BAG    |11.00|no|
+101|powder deep lavender violet gainsboro|Manufacturer#3           |Brand#32  |LARGE ANODIZED STEEL|26|JUMBO JAR |11.00|no|
+102|papaya maroon blush powder sky|Manufacturer#3           |Brand#31  |MEDIUM BURNISHED BRASS|17|SM DRUM   |11.00|no|
+103|navy sky spring orchid forest|Manufacturer#2           |Brand#25  |MEDIUM PLATED BRASS|45|WRAP DRUM |11.00|no|
+104|plum cyan cornflower midnight royal|Manufacturer#1           |Brand#13  |MEDIUM ANODIZED STEEL|36|JUMBO BAG |11.00|no|
+105|dodger slate pale mint navajo|Manufacturer#1           |Brand#15  |SMALL POLISHED COPPER|27|LG DRUM   |11.00|no|
+106|cornsilk bisque seashell lemon frosted|Manufacturer#3           |Brand#31  |MEDIUM PLATED BRASS|28|WRAP DRUM |11.00|no|
+107|violet honeydew bisque sienna orchid|Manufacturer#5           |Brand#53  |SMALL BURNISHED TIN|12|MED BOX   |12.00|no|
+108|bisque peach magenta tomato yellow|Manufacturer#1           |Brand#12  |PROMO PLATED NICKEL|41|MED PKG   |12.00|no|
+109|lemon black indian cornflower pale|Manufacturer#3           |Brand#33  |ECONOMY POLISHED TIN|11|LG PACK   |12.00|no|
+110|firebrick navy rose beige black|Manufacturer#3           |Brand#33  |STANDARD BURNISHED COPPER|46|LG DRUM   |12.00|no|
+111|orange cornflower mint snow peach|Manufacturer#5           |Brand#54  |LARGE BRUSHED COPPER|28|JUMBO JAR |12.00|no|
+112|hot aquamarine tomato lace indian|Manufacturer#4           |Brand#43  |PROMO BRUSHED STEEL|42|JUMBO CAN |12.00|no|
+113|almond seashell azure blanched light|Manufacturer#3           |Brand#31  |PROMO POLISHED TIN|23|LG CAN    |12.00|no|
+114|pink black blanched lace chartreuse|Manufacturer#5           |Brand#51  |MEDIUM POLISHED NICKEL|41|MED PACK  |12.00|no|
+115|spring chiffon cream orchid dodger|Manufacturer#4           |Brand#45  |STANDARD POLISHED STEEL|24|MED CAN   |12.00|no|
+116|goldenrod black slate forest red|Manufacturer#5           |Brand#53  |PROMO POLISHED NICKEL|33|SM PACK   |13.00|no|
+117|tomato honeydew pale red yellow|Manufacturer#1           |Brand#14  |SMALL BRUSHED TIN|25|LG BAG    |13.00|no|
+118|ghost plum brown coral cornsilk|Manufacturer#2           |Brand#25  |PROMO ANODIZED TIN|31|MED PACK  |13.00|no|
+119|olive metallic slate peach green|Manufacturer#4           |Brand#43  |LARGE POLISHED STEEL|30|WRAP CASE |13.00|no|
+120|pink powder mint moccasin navajo|Manufacturer#1           |Brand#14  |SMALL ANODIZED NICKEL|45|WRAP JAR  |13.00|no|
+121|bisque royal goldenrod medium thistle|Manufacturer#1           |Brand#14  |ECONOMY BRUSHED COPPER|13|SM PKG    |13.00|no|
+122|gainsboro royal forest dark lace|Manufacturer#2           |Brand#21  |MEDIUM ANODIZED TIN|8|LG DRUM   |13.00|no|
+123|deep dim peach light beige|Manufacturer#1           |Brand#12  |SMALL BURNISHED TIN|31|JUMBO PKG |13.00|no|
+124|wheat blush forest metallic navajo|Manufacturer#3           |Brand#32  |PROMO ANODIZED STEEL|1|LG BOX    |13.00|no|
+125|mint ivory saddle peach midnight|Manufacturer#1           |Brand#12  |STANDARD BRUSHED BRASS|17|WRAP BAG  |14.00|no|
+126|burnished black blue metallic orchid|Manufacturer#4           |Brand#45  |MEDIUM BRUSHED NICKEL|4|LG BAG    |14.00|no|
+127|royal coral orchid spring sky|Manufacturer#5           |Brand#52  |SMALL BURNISHED NICKEL|14|LG JAR    |14.00|no|
+128|dark burlywood burnished snow sky|Manufacturer#2           |Brand#22  |PROMO PLATED TIN|5|SM BAG    |14.00|no|
+129|grey spring chiffon thistle lime|Manufacturer#1           |Brand#15  |LARGE POLISHED TIN|20|SM JAR    |14.00|no|
+130|gainsboro powder cyan pale rosy|Manufacturer#2           |Brand#23  |SMALL PLATED NICKEL|26|LG BOX    |14.00|no|
+131|tomato moccasin cyan brown goldenrod|Manufacturer#5           |Brand#52  |STANDARD ANODIZED BRASS|43|MED DRUM  |14.00|no|
+132|seashell papaya tomato lime hot|Manufacturer#4           |Brand#45  |STANDARD BURNISHED BRASS|2|WRAP DRUM |14.00|no|
+133|firebrick black dodger pink salmon|Manufacturer#1           |Brand#13  |SMALL BRUSHED NICKEL|19|LG PKG    |14.00|no|
+134|steel beige mint maroon indian|Manufacturer#4           |Brand#42  |SMALL POLISHED STEEL|35|SM PKG    |15.00|no|
+135|thistle chocolate ghost gainsboro peru|Manufacturer#2           |Brand#21  |MEDIUM BURNISHED STEEL|24|JUMBO CASE|15.00|no|
+136|cornsilk maroon blanched thistle rosy|Manufacturer#2           |Brand#22  |SMALL PLATED STEEL|2|WRAP BAG  |15.00|no|
+137|cornsilk drab ghost sandy royal|Manufacturer#3           |Brand#31  |ECONOMY PLATED STEEL|25|MED PACK  |15.00|no|
+138|dark aquamarine tomato medium puff|Manufacturer#1           |Brand#13  |ECONOMY BURNISHED COPPER|42|JUMBO DRUM|15.00|no|
+139|floral steel burlywood navy cream|Manufacturer#3           |Brand#32  |MEDIUM BRUSHED STEEL|7|SM BOX    |15.00|no|
+140|aquamarine lavender maroon slate hot|Manufacturer#5           |Brand#53  |STANDARD PLATED STEEL|45|SM BOX    |15.00|no|
+141|honeydew magenta tomato spring medium|Manufacturer#3           |Brand#35  |STANDARD ANODIZED STEEL|23|SM PKG    |15.00|no|
+142|chartreuse linen grey slate saddle|Manufacturer#5           |Brand#55  |STANDARD ANODIZED BRASS|36|MED JAR   |15.00|no|
