@@ -2,7 +2,6 @@
 
 # Running Experiments
 ##  Microbenchmarks
-* Code [E1.py]-[E5.py],[E21.py]-[E25.py],[e_w.py]
 * Dataset [newdata], [mdatda/q_0.04]
 ##  SQL Benchmarks
 * Code [Eq1.py]-[Eq5.py]
