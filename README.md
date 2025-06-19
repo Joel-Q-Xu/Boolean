@@ -1,6 +1,9 @@
 # Boolean
 
 # Running Experiments
+* ESJ Code [BESJH*.py]
+* ESJ+ Code [BESJ*.py]
+* *SJ Code [icde/*.py]
 ##  Microbenchmarks
 * Dataset [newdata], [mdatda/q_0.04]
 ##  SQL Benchmarks
