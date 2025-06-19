@@ -3,7 +3,7 @@
 # Running Experiments
 * ESJ Code [BESJH*.py]
 * ESJ+ Code [BESJ*.py]
-* SJ Code [icde/*.py]
+* SJ Code [SJ/*.py]
 ##  Microbenchmarks
 * Dataset [newdata], [mdatda/q_0.04]
 ##  SQL Benchmarks
